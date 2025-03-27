@@ -1,3 +1,10 @@
+![Segment pic-1](https://github.com/user-attachments/assets/7c22680c-6480-4d21-bbfc-1ae27dc8e5ed)
+![segment pic 2](https://github.com/user-attachments/assets/67121506-c886-4ec0-9131-8f1b2ecbd4b4)
+![pic-8](https://github.com/user-attachments/assets/e9e1710b-ef96-4d2a-af87-764997ed701c)
+![pic-7](https://github.com/user-attachments/assets/fe06d1ef-656a-4ae1-bff1-5705c056dec9)
+![pic-6](https://github.com/user-attachments/assets/9edf7ae9-a53b-4d1e-a866-6b57eb127a16)
+![pic-5](https://github.com/user-attachments/assets/3175bbba-4be4-4488-8986-b5d25690c88a)
+![metrics-2](https://github.com/user-attachments/assets/d8f8f362-7f4a-46d5-9a6f-7b14b07b20a3)
 # Customer-Acquisition-and-Financial-Plan-Dashboard
 Customer-Acquisition-and-Financial-Plan-Dashboard
 Background:
