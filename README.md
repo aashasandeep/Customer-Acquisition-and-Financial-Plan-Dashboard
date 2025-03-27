@@ -1,3 +1,8 @@
+![Total Budget vs Expected Returns](https://github.com/user-attachments/assets/3f32d92a-8e81-4ad3-abf6-6f71d2748ae2)
+![PIC-1](https://github.com/user-attachments/assets/b7e20593-d295-4dc1-bbd2-9f4485ad6087)
+![LTV Across Customer Segments](https://github.com/user-attachments/assets/c419f061-ea60-4838-85bd-17feb900e98c)
+![Ad Buget Allocation(CAC vs CPM)](https://github.com/user-attachments/assets/207284f3-f6a0-4ad3-bc35-596b3a5c7c62)
+![Ad Budget Camparision](https://github.com/user-attachments/assets/2ce3c160-f701-4382-bb56-a11e5552e7b7)
 ![Segment pic-1](https://github.com/user-attachments/assets/7c22680c-6480-4d21-bbfc-1ae27dc8e5ed)
 ![segment pic 2](https://github.com/user-attachments/assets/67121506-c886-4ec0-9131-8f1b2ecbd4b4)
 ![pic-8](https://github.com/user-attachments/assets/e9e1710b-ef96-4d2a-af87-764997ed701c)
